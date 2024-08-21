@@ -1,0 +1,251 @@
+#logo {
+    background-color: #FCEFEF;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.títulos-secundarios {
+    font-family: 'Manrope';
+    font-size: 36px;
+    color: #444444
+}
+
+.Perfil {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    color: #444444
+}
+
+#Cerrar-sesión {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    color: #F43131
+}
+
+#fondo-perfil {
+    background-color: #BDFFEA;
+    border-radius: 25px;
+    width: 300px;
+    height: 800px;
+    margin: 20px;
+    padding-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 20px;  
+}
+
+#posición {
+    float:left;
+    margin: 5px;
+}
+
+#inicio {
+    font-family: 'Manrope';
+    font-size: 36px;
+    color: #FCAB64;
+    margin: 20px;
+    margin-left: 200px;
+}
+
+#inicio2 {
+    font-family: 'Manrope';
+    font-size: 36px;
+    color: #FCAB64;
+    margin: 20px;
+}
+
+#turno-a {
+    background-color: #FCAB64;
+    float: left;
+    margin: 40px;
+    display: flex;
+    border-radius: 25px;
+    width: 400px;
+    height: 200px;
+}
+
+#turno-b {
+    background-color: #7FD8BE;
+    float: center;
+    margin: 75px;
+    margin-right: 40px;
+    display: flex;
+    border-radius: 25px;
+    width: 400px;
+    height: 200px;
+}
+
+.tamaño {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.tamaño-texto {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    padding: 30px;
+}
+
+.segundafoto {
+    width: 300px;
+    height: 200px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.historial-clínico {
+    background-color: #FCAB64;
+    float: left;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.historial-laboratorio {
+    background-color: #7FD8BE;
+    float: left;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#registro {
+    margin: 10px;
+}
+
+#caja-mensajes {
+    background-color: #FCEFEF;
+    border-radius: 25px;
+    width: 300px;
+    height: 800px;
+    margin: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+#costado {
+    float: right;
+    margin: 5px;
+}
+
+.fecha-mensaje {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.titular {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 36px;
+    padding: 10px;
+}
+
+.cuadro-mensaje {
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.barra-naranja {
+    background-color: #FCAB64;
+    width: 1400px;
+    height: 100px;
+    border-radius: 25px;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 36px;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+.imagen-barra {
+    float: right;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.barra-verde {
+    background-color: #7FD8BE;
+    width: 1400px;
+    height: 100px;
+    border-radius: 25px;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 36px;
+    padding-left: 20px;
+    margin: 20px;
+}
+
+#formulario {
+ padding: 40px;
+ font-family: 'Microsoft Yi Baiti';
+ font-size: 24px;
+}
+
+#login-foto {
+    width: 750px;
+    height: 800px;
+    float: left;
+    margin-right: 120px;
+}
+
+#DNI {
+    width: 400px;
+    background-color: #FCEFEF;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    border-radius: 25px;
+    padding: 10px;
+    border-style: none;
+    margin-top: 10px;
+}
+
+#Clave {
+    width: 400px;
+    background-color: #FCEFEF;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    border-radius: 25px;
+    padding: 10px;
+    border-style: none;
+    margin-top: 10px;
+}
+
+.texto-ingreso {
+    padding-bottom: 20px;
+}
+
+#bienvenido {
+    display: flex;
+    font-family: 'Manrope';
+    font-size: 48px;
+    color: #FCAB64;
+    margin: 20px;
+    margin-left: 200px;
+    padding-top: 140px;
+}
+
+#boton1 {
+    background-color: #FCAB64;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    border-style: none;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 10px;
+    width: 170px
+}
+
+#boton2 {
+    background-color: white;
+    font-family: 'Microsoft Yi Baiti';
+    font-size: 24px;
+    border-color: #acacac;
+    border-radius: 25px;
+    margin: 20px;
+    padding: 7px;
+    width: 170px
+}
